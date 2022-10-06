@@ -1,0 +1,59 @@
+Day 3 /  Session 21 / Space M
+
+
+ IIW Notes Form 
+
+
+Please add: (a) Title of Session, (b) name of Convener(s), (c) name of Notes-taker(s), (d) type notes directly into the body of this document. 
+
+Save relevant “zoom chat” & Clean Up before  pasting into the body of this document.
+
+Share any screenshots, slides or photos of whiteboard work in your notes – If you are sharing a slide deck or PDF Doc please put it up on the web and provide a link to it.
+ 
+IMPORTANT:  This google doc page will be accessible through  Monday October 26th. 
+
+After Oct. 26th you can download the IIW Notes Form here.  Record & Save your notes as Word.doc; then, submit via email to: iiwnotes@gmail.com with Subject Line of Email:  Session # (1 – 24) & Meeting Space Letter (A – O) & Session Name. Thank You!
+
+
+*****************************************************************************
+
+Day 3 / Session 21 / Space M
+
+Session Title:
+
+
+Convener: Brent Shambaugh    
+
+Notes-taker(s): Brent Shambaugh
+
+Tags for the session - technology discussed/ideas considered:
+Category Theory and EISPP
+
+
+
+ 
+ 
+ 
+Discussion notes, key understandings, outstanding questions, observations, and, if appropriate to this discussion: action items, next steps: 
+
+
+Brent discussed  Category Theory and FQL[1] and made a brief mention of EISPP when Kim Duffy mentioned it after it appeared in the chat. [1] 
+Kim wondered if too much manual mapping of each field was occurring, and whether category theory could ease the transition between different data models. There are serializations in XML and different ones for RDF.
+
+Brent wonders if FQL, functorial data migration language, could be applied to data migration and enhance interoperability. Dr. Spivak talked about categorical databases (added for context), David Spivak: Categorical Databases [2] . Categorical databases preserve nodes and connections. Is this enough for what Kim was talking about?
+
+Kim mentioned being impressed by Eric Myer’s work , and found it interesting viewing things from an orthonormal basis . be more expressive and (unable to read my own handwriting!).
+
+Kim thought that it would be appropriate to have Henry Story present in the credentials community group . Brent mentioned that Henry Story has his own community group for category theory (ref: added after: https://web-cats.gitlab.io/). Kim said she knew him. Kim thought that category theory was a bit abstract and may be too far along (maybe too abstract) for the work doing right now (too low level maybe).
+
+Brent wondered if category theory would inform decisions, but wondered if his ego was getting in the way, but wanted it to be useful sooner than later.  
+
+Kim asked about a comment in the chat about EISPP. Brent explained that it was a model for stigmergic collaboration. It was his explorations as he was learning from technical papers without a computer science background. He explained that if anything it informed him about the semantic web and linked data.
+
+Brent said a lot more, but if was basically an overview of the Category Theory and CQL document and comment about what was going on in the space.
+
+
+
+[1] https://drive.google.com/file/d/1riKKtxwD-HcKNhv1W7fBjaMCKhI8bXV3/view Category Theory and FQL 
+
+[2] https://www.youtube.com/watch?v=bk36__qkhrk  David Spivak: Categorical Databases
