@@ -1,0 +1,29 @@
+Look at the Defintion of a Group:
+   - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
+   - Group Theory and Its Applications to Physical Problems - Morton Hammermesh
+
+Look at the Definition of a Category:
+    - Topoi - The Categorical Analysis of Logic
+    - https://www.youtube.com/c/MJMCodrington
+      - https://www.youtube.com/watch?v=P6DvIfTJhx8&list=PLm_IBvOSjN4zthQSQ_Xt6gyZJZZAPoQ6v
+
+Look at Groups as Categories:
+  Consider:
+    - https://www.andrew.cmu.edu/course/80-413-713/
+      - https://www.andrew.cmu.edu/course/80-413-713/notes/chap04.pdf
+     
+      Steve Adowey's work seems very relevent. Also check out:
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/cats.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap01.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap02.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap03.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap04.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap04.pdf
+
+Look at Groups Applied to Cryptography:
+  - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
+  
+Look at the construction of a DID document and a verifiable credential document.
+  Consider:
+      - https://github.com/decentralized-identity/did-jwt-vc
+        - 
