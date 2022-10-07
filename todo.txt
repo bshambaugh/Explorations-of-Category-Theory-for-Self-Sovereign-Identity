@@ -26,4 +26,8 @@ Look at Groups Applied to Cryptography:
 Look at the construction of a DID document and a verifiable credential document.
   Consider:
       - https://github.com/decentralized-identity/did-jwt-vc
-        - 
+
+Look at Category Theory Applied to RDF:
+      - Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz
+      - I'm probably just worrying again (https://lists.w3.org/Archives/Public/public-credentials/2022Sep/0075.html)
+        - Re (Wayne Chang)--> https://www.researchgate.net/publication/281367586_A_Category_Theoretic_Model_of_RDF_Ontology
