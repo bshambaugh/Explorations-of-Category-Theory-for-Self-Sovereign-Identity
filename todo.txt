@@ -1,7 +1,8 @@
 Motivation: 
   - Dr. David Spivak and Dr. Ryan Wisenesky's work with Applied Category Theory for Categorical Databases
   - The main open source website: https://www.categoricaldata.net/
-  - The main motivating presentation: 
+  - The GitHub Repository: https://github.com/CategoricalData
+  - The main motivating presentation: https://www.youtube.com/watch?v=bk36__qkhrk ( Categorical Databases - Topoi Institute)
 
 Questions:
   - Do credentials or signed payloads form a category? What are the arrows? What are the objects?
