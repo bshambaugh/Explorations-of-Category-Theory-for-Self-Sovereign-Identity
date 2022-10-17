@@ -6,6 +6,10 @@ Motivation:
   - The GitHub Repository: https://github.com/CategoricalData
   - The main motivating presentation: https://www.youtube.com/watch?v=bk36__qkhrk ( Categorical Databases - Topoi Institute)
 
+  - strangly I would like arbitrary payloads, arbitary credentials that I can automagically map to opportunities. why stick to a predefinaed major, that's boring. focus on the atoms and build something new. Subset: present multiple credentials as a single credential. I thought credential chaining was related
+    to this thought trail, but after more thinking it isn't. https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0070.html ( I guess you still might have one credential that precedes another though). this thinking started with EISPP / Master17 / A Distributed Economy Writings
+    ( http://bshambaugh.org/eispp, http://bshambaugh.org/eispp/ch_1_2_VRM/PNG/EISPP_directional_graph_2fresnel_gss_vrm2accesscontrol.png, http://bshambaugh.org/Master_17.html, http://adistributedeconomy.blogspot.com/ )  
+
 Questions:
   - "Some part of verifiable credentials will need to fit this definition in order for Applied Category Theory to be useful. (See attachment) I have theories, which are alluded to on GitHub." -Brent Shambaugh
     (attachment -> Section 1.3 (definition of a category) of Adowey's book: https://www.andrew.cmu.edu/course/80-413-713/notes/chap01.pdf
