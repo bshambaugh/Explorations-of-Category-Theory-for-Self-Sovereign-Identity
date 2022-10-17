@@ -1,3 +1,13 @@
+Motivation: 
+  - Dr. David Spivak and Dr. Ryan Wisenesky's work with Applied Category Theory for Categorical Databases
+  - The main open source website: https://www.categoricaldata.net/
+  - The main motivating presentation: 
+
+Questions:
+  - Do credentials or signed payloads form a category? What are the arrows? What are the objects?
+   ( You can probably find a paper of signed payloads. ECDSA signatures applied to category theory must be structure perserving?)
+  - Can I embed the thinking of Benjamin Braatz Thesis of Category Theory Applied to RDF and Dr. Joshua Shinavier's and Dr. Ryan Wiseneky's  work of algebraic property graphs  and the thinking of a group as a category and ECSDA signatures applied to category theory 
+
 Look at the Defintion of a Group:
    - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
    - Group Theory and Its Applications to Physical Problems - Morton Hammermesh
@@ -19,6 +29,7 @@ Look at Groups as Categories:
       -https://www.andrew.cmu.edu/course/80-413-713/notes/chap03.pdf
       -https://www.andrew.cmu.edu/course/80-413-713/notes/chap04.pdf
       -https://www.andrew.cmu.edu/course/80-413-713/notes/chap04.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap05.pdf
 
 Look at Groups Applied to Cryptography:
   - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
@@ -46,4 +57,4 @@ Some things, like Ceramic, chose to use JSON-Schema over JSON-LD. Understand the
 
 In context also consider Layered Schema Architecture: https://github.com/cloudprivacylabs/lsa and Overlays Capture Architecture (OCA) schema specifications: https://humancolossus.foundation/blog/cjzegoi58xgpfzwxyrqlroy48dihwz .
 
-Also consider any recorded presentation about Dragon by Dr. Joshua Shiniver (in collaboration with Dr. Wisenesky) accessible through here: https://www.meetup.com/Category-Theory/ .  
+Also consider any recorded presentation about Dragon (now Hydra) by Dr. Joshua Shiniver (in collaboration with Dr. Wisenesky) accessible through here: https://www.meetup.com/Category-Theory/ .  This appears based on the Paper for Algebraic Property Graphs (https://arxiv.org/abs/1909.04881).
