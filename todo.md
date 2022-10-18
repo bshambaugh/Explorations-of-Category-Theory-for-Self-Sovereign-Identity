@@ -1,0 +1,75 @@
+// redo: this would be easier to read in Markdown
+
+# Motivation: 
+  - Dr. David Spivak and Dr. Ryan Wisenesky's work with Applied Category Theory for Categorical Databases
+  - The main open source website: https://www.categoricaldata.net/
+  - The GitHub Repository: https://github.com/CategoricalData --> https://github.com/CategoricalData/CQL --> https://github.com/CategoricalData/FQL, https://github.com/CategoricalData/hydra
+  - The main motivating presentation: https://www.youtube.com/watch?v=bk36__qkhrk ( Categorical Databases - Topoi Institute)
+
+  - strangely I would like arbitrary payloads, arbitary credentials that I can automagically map to opportunities. why stick to a predefinaed major, that's boring. focus on the atoms and build something new. Subset: present multiple credentials as a single credential. I thought credential chaining was related
+    to this thought trail, but after more thinking it isn't. https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0070.html ( I guess you still might have one credential that precedes another though). this thinking started with EISPP / Master17 / A Distributed Economy Writings
+    ( http://bshambaugh.org/eispp, http://bshambaugh.org/eispp/ch_1_2_VRM/PNG/EISPP_directional_graph_2fresnel_gss_vrm2accesscontrol.png, http://bshambaugh.org/Master_17.html, http://adistributedeconomy.blogspot.com/2012/03/knowledge-discovery-with-semantic-web.html )  
+    - Essentially the reflection of  EISPP et. al in the modern day is to rewrite the existing higher education / deliverables / and experience to employment pipeline to allow for heterogeneous credentials that are based on people's unique qualities and less on prexisting professions such as
+      electrical, mechanical, chemical, aerospace, and industrial engineering (+ many non-stem areas) which come to represent and/or supplant one's identity/avatar in the common conciousness. Technology first; laws and culture will follow. These may be more cost effective than existing credentials since amendments
+      or repairs may be more easily made without starting again from the beginning utilizing little or none of the "good" parts of prexisting credentials (if indeed they behave that way due to their nature in the societial fabric for a particualr individual).
+
+# Questions:
+  - "Some part of verifiable credentials will need to fit this definition in order for Applied Category Theory to be useful. (See attachment) I have theories, which are alluded to on GitHub." -Brent Shambaugh
+    (attachment -> Section 1.3 (definition of a category) of Adowey's book: https://www.andrew.cmu.edu/course/80-413-713/notes/chap01.pdf
+  - "Benjamin Braatz goes into category theory for RDF so maybe this is useful for defining a category. Steve Adowey goes into the relationship between groups and categories, so this may help relating cryptographic signatures (based on groups) to categories.
+  - "The payload is a category, perhaps of RDF, which fits in the category of cryptographic signatures?"
+      - note: pararphasing "A Functor embeds one category inside another". pg 107, category theory for programmers. Bartosz Milewski
+  - Do credentials or signed payloads form a category? What are the arrows? What are the objects?
+   ( You can probably find a paper of signed payloads. ECDSA signatures applied to category theory must be structure perserving?)
+  - Can I embed the thinking of Benjamin Braatz Thesis of Category Theory Applied to RDF and Dr. Joshua Shinavier's and Dr. Ryan Wiseneky's  work of algebraic property graphs  and the thinking of a group as a category and ECSDA signatures applied to category theory 
+
+# Look at the Defintion of a Group:
+   - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
+   - Group Theory and Its Applications to Physical Problems - Morton Hammermesh
+
+# Look at the Definition of a Category:
+    - Topoi - The Categorical Analysis of Logic
+    - https://www.youtube.com/c/MJMCodrington
+      - https://www.youtube.com/watch?v=P6DvIfTJhx8&list=PLm_IBvOSjN4zthQSQ_Xt6gyZJZZAPoQ6v
+
+# Look at Groups as Categories:
+  Consider: (this turns out to be Dr. Steve Adowey's book suggested by Dr. Ryan Wisenesky)
+    - https://www.andrew.cmu.edu/course/80-413-713/
+      - https://www.andrew.cmu.edu/course/80-413-713/notes/chap04.pdf (begin discussion about Group Theory in Category Theory Book ... consider this for ECC and ECDSA involving groups and apply to C.T.)
+     
+      Steve Adowey's work seems very relevent. Also check out:
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/cats.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap01.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap02.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap03.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap04.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap04.pdf
+      -https://www.andrew.cmu.edu/course/80-413-713/notes/chap05.pdf
+
+# Look at Groups Applied to Cryptography:
+  - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
+  
+# Look at the construction of a DID document and a verifiable credential document.
+  - https://www.w3.org/TR/did-core/
+  - https://www.w3.org/TR/vc-data-model/
+  Consider:
+      - https://github.com/decentralized-identity/did-jwt-vc
+  Conversion of JSON-LD VC to JWT Payload, pg 138-139, Ch 7 Verifiable Credentials, Self-Sovereign Identity, Pruekschat et al., Manning
+  JSON Web Token Format, pg 102, 5.4.1, ibid.
+  - The excellent presentation by Bjorn Hamel at Identiverse: https://www.youtube.com/watch?v=Uu651GJ5YY0
+  
+
+# Look at Category Theory Applied to RDF:
+      - Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz
+      latest access: https://conexus.com/formal-modelling-and-application-of-graph-transformations-in-the-resource-description-framework/ - > ... -> https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/5f0c5a05-9ef1-455c-8198-88d95e08071a/content
+      (Suggested by Dr. Ryan Wisenesky, CTO Conexus) 
+     - I'm probably just worrying again (https://lists.w3.org/Archives/Public/public-credentials/2022Sep/0075.html)
+        - Re (Wayne Chang)--> https://www.researchgate.net/publication/281367586_A_Category_Theoretic_Model_of_RDF_Ontology
+
+In light of this madness with Category Theory, also look at https://fission.codes/blog/project-cambria-overview/ since Boris Mann and Brooklyn Zelenka (who may share some sentiments but tbd) probably have a point about not overcomplicating things for developers.
+
+Some things, like Ceramic, chose to use JSON-Schema over JSON-LD. Understand the difference between both. Start here: https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a .
+
+In context also consider Layered Schema Architecture: https://github.com/cloudprivacylabs/lsa and Overlays Capture Architecture (OCA) schema specifications: https://humancolossus.foundation/blog/cjzegoi58xgpfzwxyrqlroy48dihwz .
+
+Also consider any recorded presentation about Dragon (now Hydra) by Dr. Joshua Shiniver (in collaboration with Dr. Wisenesky) accessible through here: https://www.meetup.com/Category-Theory/ .  This appears based on the Paper for Algebraic Property Graphs (https://arxiv.org/abs/1909.04881).
