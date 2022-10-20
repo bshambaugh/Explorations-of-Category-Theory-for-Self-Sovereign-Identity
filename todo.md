@@ -19,6 +19,8 @@
   - "Benjamin Braatz goes into category theory for RDF so maybe this is useful for defining a category. Steve Adowey goes into the relationship between groups and categories, so this may help relating cryptographic signatures (based on groups) to categories.
   - "The payload is a category, perhaps of RDF, which fits in the category of cryptographic signatures?"
       - note: pararphasing "A Functor embeds one category inside another". pg 107, category theory for programmers. Bartosz Milewski
+        ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0007s.JPG) 
+        More about Functors for the Science of Functional Programming
   - Do credentials or signed payloads form a category? What are the arrows? What are the objects?
    ( You can probably find a paper of signed payloads. ECDSA signatures applied to category theory must be structure perserving?)
   - Can I embed the thinking of Benjamin Braatz Thesis of Category Theory Applied to RDF and Dr. Joshua Shinavier's and Dr. Ryan Wiseneky's  work of algebraic property graphs  and the thinking of a group as a category and ECSDA signatures applied to category theory 
