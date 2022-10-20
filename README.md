@@ -1,5 +1,3 @@
-// redo: this would be easier to read in Markdown
-
 # Motivation: 
   - Dr. David Spivak and Dr. Ryan Wisenesky's work with Applied Category Theory for Categorical Databases
   - The main open source website: https://www.categoricaldata.net/
