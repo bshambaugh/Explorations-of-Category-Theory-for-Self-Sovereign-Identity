@@ -27,6 +27,11 @@
    - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
    - Group Theory and Its Applications to Physical Problems - Morton Hammermesh
 
+# Look at Groups Mapped to Groups
+    See A Book of Abstract Algebra by C. Pinter, pg 91-94:
+    ![A Book of Abstract Algebra, C. Pinter - pg 91-92](./resources/images/DSC_0056s.JPG)
+    ![A Book of Abstract Algebra, C. Pinter - pg 93-94](./resources/images/DSC_0058s.JPG)
+
 # Look at the Definition of a Category:
     - Topoi - The Categorical Analysis of Logic
     - https://www.youtube.com/c/MJMCodrington
