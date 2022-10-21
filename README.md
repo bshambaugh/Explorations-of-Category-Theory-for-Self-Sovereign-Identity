@@ -47,9 +47,9 @@
       -https://www.andrew.cmu.edu/course/80-413-713/notes/chap05.pdf
    
    - Notice that in the video with Steve Adowey (https://www.youtube.com/watch?v=BF6kHD1DAeU) [ Category theory foundations 1.0 — Steve Awodey ]
-        "An isomorphism in a monoid is an element that has an inverse!"
-        "It is easy to show that inverses are always unique when they exist."
-        "A group is a monoid (a category with just one object) in which every arrow is an isomorphism"
+       - "An isomorphism in a monoid is an element that has an inverse!"
+       -  "It is easy to show that inverses are always unique when they exist."
+       -  "A group is a monoid (a category with just one object) in which every arrow is an isomorphism"
 
 # Look at Groups Applied to Cryptography:
   - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
