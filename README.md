@@ -44,7 +44,7 @@
     - https://www.youtube.com/c/MJMCodrington
       - https://www.youtube.com/watch?v=P6DvIfTJhx8&list=PLm_IBvOSjN4zthQSQ_Xt6gyZJZZAPoQ6v
     - Category Theory by Steve Adowey, pg 5, section 1.3
-        ![Category Theory by Steve Adowey pg 5, section 1.3](./resources/images/DSC_0059s.JPG)
+         ![Category Theory by Steve Adowey pg 5, section 1.3](./resources/images/DSC_0059s.JPG)
 
 # Look at Groups as Categories:
   Consider: (this turns out to be Dr. Steve Adowey's book suggested by Dr. Ryan Wisenesky)
