@@ -29,9 +29,8 @@
 
 # Look at Groups Mapped to Groups
   - See A Book of Abstract Algebra by C. Pinter, pg 91-94:
-      ![A Book of Abstract Algebra, C. Pinter - pg 91-92](./resources/images/DSC_0056s.JPG)
-      ![A Book of Abstract Algebra, C. Pinter - pg 93-94](./resources/images/DSC_0058s.JPG)
-      ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0007s.JPG)
+      ![A Book of Abstract Algebra, C. Pinter - pg 91-92](./resources/images/DSC_0058s.JPG)
+      ![A Book of Abstract Algebra, C. Pinter - pg 93-94](./resources/images/DSC_0056s.JPG)
 
 # Look at the Definition of a Category:
     - Topoi - The Categorical Analysis of Logic
