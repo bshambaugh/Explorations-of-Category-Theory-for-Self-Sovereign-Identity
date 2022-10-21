@@ -33,10 +33,10 @@
       ![A Book of Abstract Algebra, C. Pinter - pg 93-94](./resources/images/DSC_0056s.JPG)
 
 # Look at Categories Mapped to Catgories:
-    - See Category Theory for Programmers by Bartosz Milewski: https://github.com/hmemcpy/milewski-ctfp-pdf
-         ![Category Theory for Programmers  - pg 262 - 263](./resources/images/p262_263.png)
-         ![Category Theory for Programmers  - pg 264 - 265](./resources/images/p264_265.png)
-         ![Category Theory for Programmers  - pg 266 - 267](./resources/images/p266_267.png)
+  - See Category Theory for Programmers by Bartosz Milewski: https://github.com/hmemcpy/milewski-ctfp-pdf
+      ![Category Theory for Programmers  - pg 262 - 263](./resources/images/p262_263.png)
+      ![Category Theory for Programmers  - pg 264 - 265](./resources/images/p264_265.png)
+      ![Category Theory for Programmers  - pg 266 - 267](./resources/images/p266_267.png)
     
 
 # Look at the Definition of a Category:
