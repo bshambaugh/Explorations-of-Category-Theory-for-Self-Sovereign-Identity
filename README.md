@@ -68,7 +68,8 @@
        -  Follow The Science of Functional Programming by Sergei Winitzki for the definition of a monoid from a semigroup:
             ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0063s.JPG)
             ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0064s.JPG)
-            ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0066s.JPG)
+            ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0066sA.JPG)
+            ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0066sB.JPG) 
 
 # Look at Groups Applied to Cryptography:
   - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
