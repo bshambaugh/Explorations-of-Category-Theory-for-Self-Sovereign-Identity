@@ -65,6 +65,10 @@
        -  "It is easy to show that inverses are always unique when they exist."
        -  "A group is a monoid (a category with just one object) in which every arrow is an isomorphism"
        -  Paraphrasing: "In any category, an isomorphism from A to B is the following: there is a map from A to B called f and a map from B to A called g such that g after f is the identity on A and f after g is the indentity on B"
+       -  Follow The Science of Functional Programming by Sergei Winitzki for the definition of a monoid from a semigroup:
+            ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0063s.JPG)
+            ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0064s.JPG)
+            ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0066s.JPG)
 
 # Look at Groups Applied to Cryptography:
   - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
