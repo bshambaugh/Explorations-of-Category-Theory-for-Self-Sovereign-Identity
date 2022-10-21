@@ -85,12 +85,12 @@
 # Look at the construction of a DID document and a verifiable credential document.
   - https://www.w3.org/TR/did-core/
   - https://www.w3.org/TR/vc-data-model/
-  Consider:
+ -  Consider:
       - https://github.com/decentralized-identity/did-jwt-vc
-  Conversion of JSON-LD VC to JWT Payload, pg 138-139, Ch 7 Verifiable Credentials, Self-Sovereign Identity, Pruekschat et al., Manning
-  "JSON-LD document
-    A JSON-LD document is a serialization of an RDF dataset. See the JSON-LD Grammar section in JSON-LD 1.1 for a formal description." https://www.w3.org/TR/json-ld11/#dfn-json-ld-document
-  JSON Web Token Format, pg 102, 5.4.1, ibid.
+      -  Conversion of JSON-LD VC to JWT Payload, pg 138-139, Ch 7 Verifiable Credentials, Self-Sovereign Identity, Pruekschat et al., Manning
+      - "JSON-LD document
+         A JSON-LD document is a serialization of an RDF dataset. See the JSON-LD Grammar section in JSON-LD 1.1 for a formal description." https://www.w3.org/TR/json-ld11/#dfn-json-ld-document
+      _ JSON Web Token Format, pg 102, 5.4.1, ibid.
   - The excellent presentation by Bjorn Hamel at Identiverse: https://www.youtube.com/watch?v=Uu651GJ5YY0
   
 
