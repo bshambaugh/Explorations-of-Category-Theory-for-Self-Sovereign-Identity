@@ -75,8 +75,12 @@
   - See Elliptic Curve Cryptography in Practical Cryptography for Developers:
      https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc
   - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
-      ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0071sA.JPG)
-      ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0071sB.JPG)
+      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0074s.JPG)
+      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0075s.JPG)
+      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0073s.JPG)
+  _ Chapter 7 - Signatures and Zero-Knowledge Proofs, David Wong
+      ![Real World Cryptography, Chapter 7 - Signatures and Zero-Knowledge Proofs, David Wong](./resources/images/DSC_0071sA.JPG)
+      ![Real World Cryptography, Chapter 7 - Signatures and Zero-Knowledge Proofs,David Wong](./resources/images/DSC_0071sB.JPG)
   
 # Look at the construction of a DID document and a verifiable credential document.
   - https://www.w3.org/TR/did-core/
