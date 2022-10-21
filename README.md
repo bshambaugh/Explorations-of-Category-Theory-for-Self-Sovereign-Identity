@@ -72,7 +72,11 @@
             ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0066sB.JPG) 
 
 # Look at Groups Applied to Cryptography:
+  - See Elliptic Curve Cryptography in Practical Cryptography for Developers:
+     https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc
   - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
+      ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0071sA.JPG)
+      ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0071sB.JPG)
   
 # Look at the construction of a DID document and a verifiable credential document.
   - https://www.w3.org/TR/did-core/
@@ -88,12 +92,15 @@
       - Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz
       latest access: https://conexus.com/formal-modelling-and-application-of-graph-transformations-in-the-resource-description-framework/ - > ... -> https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/5f0c5a05-9ef1-455c-8198-88d95e08071a/content
       (Suggested by Dr. Ryan Wisenesky, CTO Conexus) 
-     - I'm probably just worrying again (https://lists.w3.org/Archives/Public/public-credentials/2022Sep/0075.html)
+         - How does Benjamin define his categories??
+      - I'm probably just worrying again (https://lists.w3.org/Archives/Public/public-credentials/2022Sep/0075.html)
         - Re (Wayne Chang)--> https://www.researchgate.net/publication/281367586_A_Category_Theoretic_Model_of_RDF_Ontology
 
 In light of this madness with Category Theory, also look at https://fission.codes/blog/project-cambria-overview/ since Boris Mann and Brooklyn Zelenka (who may share some sentiments but tbd) probably have a point about not overcomplicating things for developers.
 
 Some things, like Ceramic, chose to use JSON-Schema over JSON-LD. Understand the difference between both. Start here: https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a .
+
+How does JSON-Schema, JSON-LD and RDF compare??
 
 In context also consider Layered Schema Architecture: https://github.com/cloudprivacylabs/lsa and Overlays Capture Architecture (OCA) schema specifications: https://humancolossus.foundation/blog/cjzegoi58xgpfzwxyrqlroy48dihwz .
 
