@@ -118,11 +118,14 @@
               ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/section2.3schemas.png)
          - [5.1.2 - Integration of Schemas - page 84]
               ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/5.1.2integrationofSchemas.png)
+         - References RDF Schema: https://www.w3.org/TR/rdf-schema/
 
         (Suggested by Dr. Ryan Wisenesky, CTO Conexus) 
       
       - I'm probably just worrying again (https://lists.w3.org/Archives/Public/public-credentials/2022Sep/0075.html)
         - Re (Wayne Chang)--> https://www.researchgate.net/publication/281367586_A_Category_Theoretic_Model_of_RDF_Ontology
+           - Does this paper allow for richer vocabularies? See this comment in https://www.w3.org/TR/rdf-schema/:
+              "This specification does not attempt to enumerate all the possible forms of representing the meaning of RDF classes and properties. Instead, the RDF Schema strategy is to acknowledge that there are many techniques through which the meaning of classes and properties can be described. Richer vocabulary or 'ontology' languages such as OWL [OWL2-OVERVIEW], inference rule languages and other formalisms (for example temporal logics) will each contribute to our ability to capture meaningful generalizations about data in the Web."
 
 In light of this madness with Category Theory, also look at https://fission.codes/blog/project-cambria-overview/ since Boris Mann and Brooklyn Zelenka (who may share some sentiments but tbd) probably have a point about not overcomplicating things for developers.
 
