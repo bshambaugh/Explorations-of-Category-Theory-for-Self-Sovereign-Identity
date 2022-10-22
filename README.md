@@ -32,7 +32,6 @@
 
 # Look at Groups Mapped to Groups:
   - See A Book of Abstract Algebra by C. Pinter, pg 91-94:
-      ![A Book of Abstract Algebra, C. Pinter - pg 91-92](./resources/images/DSC_0058s.JPG)
       ![A Book of Abstract Algebra, C. Pinter - pg 91](./resources/images/DSC_0058sA.JPG)
       ![A Book of Abstract Algebra, C. Pinter - pg 92](./resources/images/DSC_0058sB.JPG)
       ![A Book of Abstract Algebra, C. Pinter - pg 93-94](./resources/images/DSC_0056s.JPG)
@@ -42,8 +41,14 @@
 # Look at Categories Mapped to Catgories:
   - See Category Theory for Programmers by Bartosz Milewski: https://github.com/hmemcpy/milewski-ctfp-pdf
       ![Category Theory for Programmers  - pg 262 - 263](./resources/images/p262_263.png)
+      ![Category Theory for Programmers  - pg 262](./resources/images/p262.png)
+      ![Category Theory for Programmers  - pg 263](./resources/images/p263.png)
       ![Category Theory for Programmers  - pg 264 - 265](./resources/images/p264_265.png)
+      ![Category Theory for Programmers  - pg 264](./resources/images/p264.png)
+      ![Category Theory for Programmers  - pg 265](./resources/images/p265.png)
       ![Category Theory for Programmers  - pg 266 - 267](./resources/images/p266_267.png)
+      ![Category Theory for Programmers  - pg 266](./resources/images/p266.png)
+      ![Category Theory for Programmers  - pg 267](./resources/images/p267.png)
   - Expand on Bartosz's work with his Course on YouTube: https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_ 
     
 # Look at the Definition of a Category:
