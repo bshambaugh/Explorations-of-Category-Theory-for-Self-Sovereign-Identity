@@ -65,6 +65,7 @@
        -  "It is easy to show that inverses are always unique when they exist."
        -  "A group is a monoid (a category with just one object) in which every arrow is an isomorphism"
        -  Paraphrasing: "In any category, an isomorphism from A to B is the following: there is a map from A to B called f and a map from B to A called g such that g after f is the identity on A and f after g is the indentity on B"
+       -  Compare Adowey's definition of an isomorphism to Wikipedia's definition: https://en.wikipedia.org/wiki/Isomorphism#Category_theoretic_view
        -  Follow The Science of Functional Programming by Sergei Winitzki for the definition of a monoid from a semigroup:
             ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0063s.JPG)
             ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0064s.JPG)
@@ -97,76 +98,14 @@
 # Look at Category Theory Applied to RDF:
   - Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz
       latest access: https://conexus.com/formal-modelling-and-application-of-graph-transformations-in-the-resource-description-framework/ - > ... -> https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/5f0c5a05-9ef1-455c-8198-88d95e08071a/content --> Dokument_29.pdf
+         - [section 1.4 Organisation of the Thesis (pp 9 - 10)]
               ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 9 - 10](./resources/images/section1.4.png)
-          - "In Chapter 2, the syntax and semantics of RDF is formalised using category theoretical
-             structures. This chapter is structured quite similar to the official RDF documents. While
-             Section 2.1 formalises the abstract syntax given in [KC04], the following sections follow
-             the structure of [Hay04], where the basic semantical structures are given in Section 2.2.
-             RDF Schema, provided by [BG04], and the corresponding semantic extension are treated
-             in Section 2.3. Section 2.4 gives a short overview of semantic extensions for datatypes
-             and typed literals.
-             In Chapter 3, the MPOC transformation framework is defined and its main results are
-             proven, where Section 3.1 motivates this by some use cases for rule-based transformations
-             and gives a review of existing transformation approaches. Then, Section 3.2 contains the
-             basic definitions which are extended by a notion of sequential composition in Section 3.3.
-             Section 3.4 extends the framework by negative application conditions.
-             In Chapter 4, this framework is instantiated to RDF. For this purpose, Section 4.1
-             defines RDF patterns as an extension to RDF graphs and Section 4.2 shows the con-
-             structions needed for the instantiation. Section 4.3 then contains proofs for the additional
-             properties that are needed for sequential composition of rules. Section 4.4 shows how
-             inferences for RDF Schema can be implemented by transformation rules.
-             In Chapter 5, it is shown how the requirements of the application scenarios are met by
-             graph transformations, where Section 5.1 is concerned with the Semantic Web metadata
-             application, while Section 5.2 contains the treatment of the DSML scenario.
-             Finally, Chapter 6 summarises the thesis and gives pointers to future perspectives,
-             where Section 6.1 summarises the solution for the application scenarios and Section 6.2
-             highlights the theoretical contributions.
-             Appendix A gives an overview over the definitions and basic results of category theory
-             that are used throughout the thesis, where Section A.1 contains the basic notions of
-             categories, morphisms and functors and Section A.2 treats limits and colimits, especially
-             initial and final objects, products and coproducts and pushouts and pullbacks." [section 1.4 Organisation of the Thesis (pp 9 - 10)]
-          -"
-               Proposition 2.1 (Category RDFHom)
-               RDF graphs and RDF graph homomorphisms constitute a category RDFHom, where
-               compositions are compositions of blank node functions and identities are blank node
-               identities.
-               In this category, the following characterisations of special morphisms hold:
-
-               Mono: A homomorphism m : G → G 0 is a monomorphism if and only if m Blank is injective.
-                     In this case, G is called a subgraph of G 0 (via m).
-
-               Epi: A homomorphism e : G → G 0 is an epimorphism if and only if e Blank is surjective.
-
-               Iso: A homomorphism i : G → G 0 is an isomorphism if and only if i Blank is bijective and 0
-                    the equality i Triple (G Triple ) = G Triple is satisfied.
-
-               Isomorphic graphs are also called equivalent." (page 16)
-        -   "RDF graph instantiations give rise to a super category of RDFHom.
-
-               Proposition 2.4 (Category RDFInst)
-
-                RDF graphs and RDF graph instantiations constitute a category RDFInst, where compo-
-               sitions are given by (j ◦ i ) Blank := j Node ◦ i Blank for all RDF graph instantiations i : G → G 0
-               and j : G 0 → G 00 and identities by (id G ) Blank := incl G Blank ,G Node ◦ id G Blank 10 for all RDF graphs G.
-               There is an inclusion functor Incl : RDFHom → RDFInst with Incl(G) := G for all RDF 0 0 ◦ h Blank for all RDF graph homomorphisms h.
-graphs G and Incl(h) Blank := incl G Blank
-,G Node
-Beweis. Firstly, we observe that (k ◦j) Node = k Node ◦j Node . Associativity of compositions is
-then obtained by (k◦(j◦i )) Blank = k Node ◦(j Node ◦i Blank ) = (k Node ◦j Node )◦i Blank = (k◦j) Node ◦
-0
-i Blank = ((k ◦j)◦i ) Blank using associativity of functions. Secondly, since (id G 0 ) Node = id G Node
-0
-cancellability of identities follows from (id G 0 ◦ i ) Blank = (id G 0 ) Node ◦ i Blank = id G Node
-◦ i Blank =
-i Blank and (i ◦ id G ) Blank = i Node ◦ (id G ) Blank = i Node ◦ incl G Blank ,G Node ◦ id G Blank = i Blank .
-The functor properties of Incl obviously follow from homomorphisms being a special case
-of instantiations.
-We now have that RDF graph instantiations exactly characterise semantic entailment in
-the opposite direction. This theorem corresponds to the Interpolation Lemma in [Hay04]
-stating that “S entails a graph E if and only if a subgraph of S is an instance of E”, where
-the instantiation and the subgraph inclusion are combined in our notion of instantiation
-from E to S as already alluded to above.
-
+         - [Definition 2.5 (RDFGraph) pg 14]
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 15](./resources/images/definition2.5.png)
+         - [Definition 2.6 (Category RDFHom) pg 15]
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 15](./resources/images/Definition2.6.png)
+         - [Proposition 2.1 (Category RDFHom) pg 16]
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/Proposition2.1.png)
       (Suggested by Dr. Ryan Wisenesky, CTO Conexus) 
          - How does Benjamin define his categories??
       - I'm probably just worrying again (https://lists.w3.org/Archives/Public/public-credentials/2022Sep/0075.html)
