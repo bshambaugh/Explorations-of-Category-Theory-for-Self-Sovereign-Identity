@@ -142,8 +142,8 @@ In light of this madness with Category Theory, also look at https://fission.code
 
 Some things, like Ceramic, chose to use JSON-Schema over JSON-LD. Understand the difference between both. Start here: https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a .
 
-How does JSON-Schema, JSON-LD and RDF compare??
+How does JSON-Schema, JSON-LD and RDF compare?? JSON-LD is a serialization of RDF. JSON-Schema is ... (add something)....and how does it compare to JSON-LD.
 
-In context also consider Layered Schema Architecture: https://github.com/cloudprivacylabs/lsa and Overlays Capture Architecture (OCA) schema specifications: https://humancolossus.foundation/blog/cjzegoi58xgpfzwxyrqlroy48dihwz .
+In context also consider Layered Schema Architecture: https://github.com/cloudprivacylabs/lsa and Overlays Capture Architecture (OCA) schema specifications: https://humancolossus.foundation/blog/cjzegoi58xgpfzwxyrqlroy48dihwz . (OCA is a software architecture? not math)
 
 Also consider any recorded presentation about Dragon (now Hydra) by Dr. Joshua Shiniver (in collaboration with Dr. Wisenesky) accessible through here: https://www.meetup.com/Category-Theory/ .  This appears based on the Paper for Algebraic Property Graphs (https://arxiv.org/abs/1909.04881).
