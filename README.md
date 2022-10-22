@@ -85,13 +85,10 @@
   - See Elliptic Curve Cryptography in Practical Cryptography for Developers:
      https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc
   - Comprare this to math in: Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
-      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0074s.JPG)
       ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0074sA.JPG)
       ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0074sB.JPG)
-      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0075s.JPG)
       ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0075sA.JPG)
       ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0075sB.JPG)
-      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0073s.JPG)
       ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0073sA.JPG)
       ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0073sB.JPG)
   _ Chapter 7 - Signatures and Zero-Knowledge Proofs, David Wong
