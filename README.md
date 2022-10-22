@@ -11,7 +11,8 @@
     - Essentially the reflection of  EISPP et. al in the modern day is to rewrite the existing higher education / deliverables / and experience to employment pipeline to allow for heterogeneous credentials that are based on people's unique qualities and less on prexisting professions such as
       electrical, mechanical, chemical, aerospace, and industrial engineering (+ many non-stem areas) which come to represent and/or supplant one's identity/avatar in the common conciousness. Technology first; laws and culture will follow. These may be more cost effective than existing credentials since amendments
       or repairs may be more easily made without starting again from the beginning utilizing little or none of the "good" parts of prexisting credentials (if indeed they behave that way due to their nature in the societial fabric for a particualr individual).
-
+    - Maybe this fits into enabling web3 as Johnny Howle suggests? 
+      Jonny Howle ~ Identity as a Means of Adoption - uPort https://www.youtube.com/watch?v=WDG0LKiGZio
 # Questions:
   - "Some part of verifiable credentials will need to fit this definition in order for Applied Category Theory to be useful. (See attachment) I have theories, which are alluded to on GitHub." -Brent Shambaugh
     (attachment -> Section 1.3 (definition of a category) of Adowey's book: https://www.andrew.cmu.edu/course/80-413-713/notes/chap01.pdf
@@ -116,19 +117,19 @@
          - [section 1.4 Organisation of the Thesis (pp 9 - 10)]
               ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 9 - 10](./resources/images/section1.4.png)
          - [Definition 2.5 (RDFGraph) pg 14]
-              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 15](./resources/images/definition2.5.png)
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 14](./resources/images/definition2.5.png)
          - [Definition 2.6 (Category RDFHom) pg 15]
               ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 15](./resources/images/Definition2.6.png)
          - [Proposition 2.1 (Category RDFHom) pg 16]
               ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/Proposition2.1.png)
          - [Definition 2.7 - page 18]
-              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/definition.png)
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 18](./resources/images/definition.png)
          - [Section 2.2 Semantics - Definition 2.8 - page 19]
-              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/section2.2semantics.png)
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 19](./resources/images/section2.2semantics.png)
          - [Section 2.3 - Schemas - page 23]
-              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/section2.3schemas.png)
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 23](./resources/images/section2.3schemas.png)
          - [5.1.2 - Integration of Schemas - page 84]
-              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/5.1.2integrationofSchemas.png)
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 84](./resources/images/5.1.2integrationofSchemas.png)
          - References RDF Schema: https://www.w3.org/TR/rdf-schema/
 
         (Suggested by Dr. Ryan Wisenesky, CTO Conexus) 
