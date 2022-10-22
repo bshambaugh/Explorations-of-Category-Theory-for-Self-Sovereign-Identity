@@ -86,6 +86,7 @@
 # Look at the construction of a DID document and a verifiable credential document.
   - https://www.w3.org/TR/did-core/
   - https://www.w3.org/TR/vc-data-model/
+  - verifiable credential presentation (https://identity.foundation/presentation-exchange)
  -  Consider:
       - https://github.com/decentralized-identity/did-jwt-vc
       -  Conversion of JSON-LD VC to JWT Payload, pg 138-139, Ch 7 Verifiable Credentials, Self-Sovereign Identity, Pruekschat et al., Manning
@@ -106,7 +107,16 @@
               ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 15](./resources/images/Definition2.6.png)
          - [Proposition 2.1 (Category RDFHom) pg 16]
               ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/Proposition2.1.png)
-      (Suggested by Dr. Ryan Wisenesky, CTO Conexus) 
+         - [Definition 2.7 - page 18]
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/definition.png)
+         - [Section 2.2 Semantics - Definition 2.8 - page 19]
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/section2.2semantics.png)
+         - [Section 2.3 - Schemas - page 23]
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/section2.3schemas.png)
+         - [5.1.2 - Integration of Schemas - page 84]
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/5.1.2integrationofSchemas.png)
+
+        (Suggested by Dr. Ryan Wisenesky, CTO Conexus) 
          - How does Benjamin define his categories??
       - I'm probably just worrying again (https://lists.w3.org/Archives/Public/public-credentials/2022Sep/0075.html)
         - Re (Wayne Chang)--> https://www.researchgate.net/publication/281367586_A_Category_Theoretic_Model_of_RDF_Ontology
