@@ -33,7 +33,11 @@
 # Look at Groups Mapped to Groups:
   - See A Book of Abstract Algebra by C. Pinter, pg 91-94:
       ![A Book of Abstract Algebra, C. Pinter - pg 91-92](./resources/images/DSC_0058s.JPG)
+      ![A Book of Abstract Algebra, C. Pinter - pg 91](./resources/images/DSC_0058sA.JPG)
+      ![A Book of Abstract Algebra, C. Pinter - pg 92](./resources/images/DSC_0058sB.JPG)
       ![A Book of Abstract Algebra, C. Pinter - pg 93-94](./resources/images/DSC_0056s.JPG)
+      ![A Book of Abstract Algebra, C. Pinter - pg 93](./resources/images/DSC_0056As.JPG)
+      ![A Book of Abstract Algebra, C. Pinter - pg 94](./resources/images/DSC_0056Bs.JPG)
 
 # Look at Categories Mapped to Catgories:
   - See Category Theory for Programmers by Bartosz Milewski: https://github.com/hmemcpy/milewski-ctfp-pdf
@@ -90,6 +94,7 @@
 # Look at the construction of a DID document and a verifiable credential document.
   - https://www.w3.org/TR/did-core/
   - https://www.w3.org/TR/vc-data-model/
+     - Give a rough overview of a verifiable credential. What is signed? (look at did-jwt-vc and another implementation using json-ld)
   - verifiable credential presentation (https://identity.foundation/presentation-exchange)
  -  Consider:
       - https://github.com/decentralized-identity/did-jwt-vc
