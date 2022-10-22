@@ -25,7 +25,9 @@
 
 # Look at the Defintion of a Group:
    - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
-   - Group Theory and Its Applications to Physical Problems - Morton Hammermesh
+   - Group Theory and Its Applications to Physical Problems - Morton Hammermesh (page 6 - 7)
+      ![Group Theory and Its Applications to Physical Problems - Morton Hammermesh - pg 6](./resources/images/DSC_0079.JPG)
+      ![Group Theory and Its Applications to Physical Problems - Morton Hammermesh - pg 7](./resources/images/DSC_0080.JPG)
 
 # Look at Groups Mapped to Groups:
   - See A Book of Abstract Algebra by C. Pinter, pg 91-94:
@@ -38,7 +40,6 @@
       ![Category Theory for Programmers  - pg 264 - 265](./resources/images/p264_265.png)
       ![Category Theory for Programmers  - pg 266 - 267](./resources/images/p266_267.png)
     
-
 # Look at the Definition of a Category:
   - Topoi - The Categorical Analysis of Logic
   - https://www.youtube.com/c/MJMCodrington
@@ -117,7 +118,7 @@
               ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 16](./resources/images/5.1.2integrationofSchemas.png)
 
         (Suggested by Dr. Ryan Wisenesky, CTO Conexus) 
-         - How does Benjamin define his categories??
+      
       - I'm probably just worrying again (https://lists.w3.org/Archives/Public/public-credentials/2022Sep/0075.html)
         - Re (Wayne Chang)--> https://www.researchgate.net/publication/281367586_A_Category_Theoretic_Model_of_RDF_Ontology
 
