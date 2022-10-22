@@ -97,7 +97,7 @@
 # Look at Category Theory Applied to RDF:
   - Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz
       latest access: https://conexus.com/formal-modelling-and-application-of-graph-transformations-in-the-resource-description-framework/ - > ... -> https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/5f0c5a05-9ef1-455c-8198-88d95e08071a/content --> Dokument_29.pdf
-              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 9 - 10](./resources/images/DSC_0071sB.JPG)
+              ![Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz - page 9 - 10](./resources/images/section1.4.png)
           - "In Chapter 2, the syntax and semantics of RDF is formalised using category theoretical
              structures. This chapter is structured quite similar to the official RDF documents. While
              Section 2.1 formalises the abstract syntax given in [KC04], the following sections follow
