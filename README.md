@@ -69,6 +69,7 @@
        -  "A group is a monoid (a category with just one object) in which every arrow is an isomorphism"
        -  Paraphrasing: "In any category, an isomorphism from A to B is the following: there is a map from A to B called f and a map from B to A called g such that g after f is the identity on A and f after g is the indentity on B"
        -  Compare Adowey's definition of an isomorphism to Wikipedia's definition: https://en.wikipedia.org/wiki/Isomorphism#Category_theoretic_view
+            ![Wikipedia - Isomorphism - Categoric View](./resources/images/wikipediaIsomorphismCategoricView.png)
        -  Follow The Science of Functional Programming by Sergei Winitzki for the definition of a monoid from a semigroup:
             ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0063s.JPG)
             ![The Science of Functional Programming ... Sergei Winitzski -- pg 339](./resources/images/DSC_0064s.JPG)
@@ -97,7 +98,8 @@
          A JSON-LD document is a serialization of an RDF dataset. See the JSON-LD Grammar section in JSON-LD 1.1 for a formal description." https://www.w3.org/TR/json-ld11/#dfn-json-ld-document
       _ JSON Web Token Format, pg 102, 5.4.1, ibid.
   - The excellent presentation by Bjorn Hamel at Identiverse: https://www.youtube.com/watch?v=Uu651GJ5YY0
-  
+  - Image for Verifiable Credentials LifeCycle. Source:  https://w3c-ccg.github.io/vc-lifecycle/
+       ![Verifiable Credentials LifeCycle](./resources/images/vc_lifecycle.jpg)  
 
 # Look at Category Theory Applied to RDF:
   - Formal Modelling and Application of Graph Transformations in the Resource Description Framework - Benjamin Braatz
