@@ -34,7 +34,6 @@
   - See A Book of Abstract Algebra by C. Pinter, pg 91-94:
       ![A Book of Abstract Algebra, C. Pinter - pg 91](./resources/images/DSC_0058sA.JPG)
       ![A Book of Abstract Algebra, C. Pinter - pg 92](./resources/images/DSC_0058sB.JPG)
-      ![A Book of Abstract Algebra, C. Pinter - pg 93-94](./resources/images/DSC_0056s.JPG)
       ![A Book of Abstract Algebra, C. Pinter - pg 93](./resources/images/DSC_0056sA.JPG)
       ![A Book of Abstract Algebra, C. Pinter - pg 94](./resources/images/DSC_0056sB.JPG)
 
@@ -87,8 +86,14 @@
      https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc
   - Comprare this to math in: Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
       ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0074s.JPG)
+      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0074sA.JPG)
+      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0074sB.JPG)
       ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0075s.JPG)
+      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0075sA.JPG)
+      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0075sB.JPG)
       ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0073s.JPG)
+      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0073sA.JPG)
+      ![Real World Cryptography, Chapter 5 - Key Exchanges, Real World Cryptography, David Wong](./resources/images/DSC_0073sB.JPG)
   _ Chapter 7 - Signatures and Zero-Knowledge Proofs, David Wong
       ![Real World Cryptography, Chapter 7 - Signatures and Zero-Knowledge Proofs, David Wong](./resources/images/DSC_0071sA.JPG)
       ![Real World Cryptography, Chapter 7 - Signatures and Zero-Knowledge Proofs,David Wong](./resources/images/DSC_0071sB.JPG)
