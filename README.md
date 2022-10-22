@@ -1,7 +1,8 @@
 # Motivation: 
   - Dr. David Spivak and Dr. Ryan Wisenesky's work with Applied Category Theory for Categorical Databases
   - The main open source website: https://www.categoricaldata.net/
-  - The GitHub Repository: https://github.com/CategoricalData --> https://github.com/CategoricalData/CQL --> https://github.com/CategoricalData/FQL, https://github.com/CategoricalData/hydra
+  - What are some data tools make use of applied category theory?
+     - The GitHub Repository: https://github.com/CategoricalData --> https://github.com/CategoricalData/CQL --> https://github.com/CategoricalData/FQL, https://github.com/CategoricalData/hydra
   - The main motivating presentation: https://www.youtube.com/watch?v=bk36__qkhrk ( Categorical Databases - Topoi Institute)
 
   - strangely I would like arbitrary payloads, arbitary credentials that I can automagically map to opportunities. why stick to a predefinaed major, that's boring. focus on the atoms and build something new. Subset: present multiple credentials as a single credential. I thought credential chaining was related
@@ -39,6 +40,7 @@
       ![Category Theory for Programmers  - pg 262 - 263](./resources/images/p262_263.png)
       ![Category Theory for Programmers  - pg 264 - 265](./resources/images/p264_265.png)
       ![Category Theory for Programmers  - pg 266 - 267](./resources/images/p266_267.png)
+  - Expand on Bartosz's work with his Course on YouTube: https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_ 
     
 # Look at the Definition of a Category:
   - Topoi - The Categorical Analysis of Logic
