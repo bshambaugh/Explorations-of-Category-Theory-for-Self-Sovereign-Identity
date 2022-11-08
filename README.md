@@ -106,26 +106,31 @@
 
 # Cryptographic Curves and Signatures Links:
 
-BLS12-381 For The Rest Of Us
-https://hackmd.io/@benjaminion/bls12-381
-
-BLS signatures: better than Schnorr
-https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716
-
-Explaining BLS12–381 … The “Zero Knowledge Proof” Curve
-https://medium.com/asecuritysite-when-bob-met-alice/explaining-bls12-381-the-zero-knowledge-proof-curve-aa5eabec8261
-
-
+Bill Buchanan OBE
 Pairing-based Cryptography
 https://www.youtube.com/watch?v=4zu-kXIiXA4
 
-
-EdDSA
+Bill Buchanan OBE
+Digital Signatures - ECDSA, EdDSA and Schnorr
+https://www.youtube.com/watch?v=S77ES52AGVg
 https://asecuritysite.com/ecc/eddsa
 
 
-Digital Signatures - ECDSA, EdDSA and Schnorr
-https://www.youtube.com/watch?v=S77ES52AGVg
+https://en.wikipedia.org/wiki/Elliptic_curve_point_multiplication
+https://en.wikipedia.org/wiki/Scalar_multiplication
+
+Ben Edgington
+BLS12-381 For The Rest Of Us
+https://hackmd.io/@benjaminion/bls12-381
+
+Stepan
+BLS signatures: better than Schnorr
+https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716
+
+Prof Bill Buchanan OBE
+https://medium.com/asecuritysite-when-bob-met-alice/explaining-bls12-381-the-zero-knowledge-proof-curve-aa5eabec8261
+The Basics of Elliptic Curve Cryptography (ECC)
+https://www.youtube.com/watch?v=ZOJO6j98i2
   
 # Look at the construction of a DID document and a verifiable credential document.
   - https://www.w3.org/TR/did-core/
