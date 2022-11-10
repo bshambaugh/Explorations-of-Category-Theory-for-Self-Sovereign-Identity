@@ -26,6 +26,13 @@
   - Do credentials or signed payloads form a category? What are the arrows? What are the objects?
    ( You can probably find a paper of signed payloads. ECDSA signatures applied to category theory must be structure perserving?)
   - Can I embed the thinking of Benjamin Braatz Thesis of Category Theory Applied to RDF and Dr. Joshua Shinavier's and Dr. Ryan Wiseneky's  work of algebraic property graphs  and the thinking of a group as a category and ECSDA signatures applied to category theory 
+  
+  - Can you compare this work to? 
+     -  Verifiable Credential Data Integrity 1.0, https://www.w3.org/TR/vc-data-integrity/
+     -  RDF DataSet Canoncicalization, https://w3c-ccg.github.io/rdf-dataset-canonicalization/spec/index.html
+     -  Bidirectional Lenses, https://fission.codes/blog/project-cambria-overview/
+     - Burak Serdar, A Demonstration of Layered Schema Architecture as a Semantic Harmonization Tool, Cloud Privacy Labs, Colorado, USA. https://ceur-ws.org/Vol-3249/paper3-OSS.pdf
+     - Overlays Capture Architecture, DDE Series, Paul Knowles, Head of the Advisory Council, https://humancolossus.foundation/blog/cjzegoi58xgpfzwxyrqlroy48dihwz
 
 # Look at the Defintion of a Group:
    - Chapter 5 - Key Exchanges, Real World Cryptography, David Wong
